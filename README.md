@@ -10,4 +10,5 @@ Curso de CSS Grid Layout Platzi y @teffcode
 * Media queries 
 
 > Aqui una visualización 😋! 
-<img src="assets/Captura_desktop.png">
+![Captura_desktop](https://user-images.githubusercontent.com/66961658/120905155-c3694100-c615-11eb-84f6-f01f4739f9cd.PNG)
+
