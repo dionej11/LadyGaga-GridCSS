@@ -1,4 +1,4 @@
-# LadyGaga-GridCSS💚
+# LadyGaga GridCSS💚
 Practica de CSS y Grid Layout.
 Curso de CSS Grid Layout Platzi y @teffcode 
 
@@ -10,4 +10,4 @@ Curso de CSS Grid Layout Platzi y @teffcode
 * Media queries 
 
 > Aqui una visualización 😋! 
-<img src="assets/Captura_desktop.png">
+<img src="/assets/Captura_desktop.png">
